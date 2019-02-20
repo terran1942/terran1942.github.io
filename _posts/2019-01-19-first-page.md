@@ -2,7 +2,7 @@
 layout: post
 title:  "第一次使用GitHub Pages"
 date:   2019-01-19 16:43:27 +0800
-categories:  update
+categories:  GitHub
 ---
 
 第一次使用GitHub pages，记录一下过程。

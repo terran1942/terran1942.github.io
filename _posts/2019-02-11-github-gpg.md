@@ -123,6 +123,12 @@ git -S -m "add github pgp"
 提交后在GitHub上查看提交记录，显示该提交已使用GPG签名。
 ![commit history](/assets/2019-02-11/snapshot-3.png)
 
+# 常见问题
+macOS操作系统上，如果出现签名失败错误，需要在~/.bash_profile中加入：
+``` shell
+export GPG_TTY=$(tty)
+```
+
 # Github其他设置
 在保护分支规则中可以找到“require signed commit”选项。要求commit必须经过签名，防止发生篡改。
 ![GitHub signed commit](/assets/2019-02-11/snapshot-1.png)

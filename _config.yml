@@ -15,14 +15,17 @@
 # in the templates via {{ site.myvariable }}.
 title: Terran1942's pages
 email: terran9142@gmail.com
+
+# Write an awesome description for your new site here. You can edit this
+# line in _config.yml. It will appear in your document head meta (for
+# Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  记录、分享技术探索
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://terran1942.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: terran1942x
+github_username:  terran1942
 
 # Build settings
 markdown: kramdown

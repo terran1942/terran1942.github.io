@@ -2,7 +2,8 @@
 layout: post
 title:  "GitHub Pages为自定义域名启用HTTPS"
 date:   2019-02-20 16:34:00 +0800
-categories:  GitHub
+categories:  technology
+tags: [Github Pages, HTTPS]
 ---
 
 在笔者以往的记忆中，访问GitHub Pages，域名默认是_**https://xxx.github.io**_，使用自定义域名并没有HTTPS支持，想要HTTPS需要使用cloudflare等CDN的https进行支持。

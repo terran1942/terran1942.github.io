@@ -2,7 +2,8 @@
 layout: post
 title:  "使用GPG对GitHub commit进行签名"
 date:   2019-02-11 14:57:46 +0800
-categories: GitHub
+categories:  technology
+tags: [Github Pages, PGP]
 ---
 
 ![gpg](/assets/2019-02-11/gpg.png)

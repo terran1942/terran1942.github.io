@@ -2,7 +2,8 @@
 layout: post
 title:  "第一次使用GitHub Pages"
 date:   2019-01-19 16:43:27 +0800
-categories:  GitHub
+categories:  technology
+tags: [Github Pages, Jeykll]
 ---
 
 第一次使用GitHub pages，记录一下过程。

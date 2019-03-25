@@ -118,7 +118,7 @@ git config user.signingkey 64B2AFFC86E139D677DEC8D7C6F5CE74976A40B8
 #### 提交更改
 设置Git之后，提交更改。使用-S参数使用签名，之后按提示输入生成密钥时的密码。
 ``` shell
-git -S -m "add github pgp"
+git commit -S -m "add github pgp"
 ```
 
 提交后在GitHub上查看提交记录，显示该提交已使用GPG签名。

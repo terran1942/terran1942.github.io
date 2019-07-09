@@ -27,8 +27,3 @@ gem install jekyll bundle
 ``` bash
 jeykll new blog
 ```
-
-``` yaml
-spring:
-    name: symbol
-```
